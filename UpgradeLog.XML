@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="IndustryPlatform">
+</Property><Property Name="解决方案文件" Value="D:\YPF\北京天大天科公司\项目相关\9、长武\1、源码\IndustryPlatform\IndustryPlatform.sln">
+</Property><Property Name="用户选项文件" Value="D:\YPF\北京天大天科公司\项目相关\9、长武\1、源码\IndustryPlatform\IndustryPlatform.suo">
+</Property><Property Name="Date" Value="2015年1月20日">
+</Property><Property Name="Time" Value="10:11">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="IndustryPlatform.sln" Description="文件已成功备份为 D:\YPF\北京天大天科公司\项目相关\9、长武\1、源码\IndustryPlatform\Backup\IndustryPlatform.sln">
+</Event><Event ErrorLevel="0" Project="" Source="IndustryPlatform.suo" Description="文件已成功备份为 D:\YPF\北京天大天科公司\项目相关\9、长武\1、源码\IndustryPlatform\Backup\IndustryPlatform.suo">
+</Event><Event ErrorLevel="0" Project="Model" Source="Model\Model.csproj" Description="项目文件已成功备份为 D:\YPF\北京天大天科公司\项目相关\9、长武\1、源码\IndustryPlatform\Backup\Model\Model.csproj">
+</Event><Event ErrorLevel="0" Project="Model" Source="Model\Model.csproj.user" Description="项目用户文件成功备份为 D:\YPF\北京天大天科公司\项目相关\9、长武\1、源码\IndustryPlatform\Backup\Model\Model.csproj.user">
+</Event><Event ErrorLevel="0" Project="Model" Source="Model\Properties\AssemblyInfo.cs" Description="文件已成功备份为 D:\YPF\北京天大天科公司\项目相关\9、长武\1、源码\IndustryPlatform\Backup\Model\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Model" Source="Model\SYS_Colliery.cs" Description="文件已成功备份为 D:\YPF\北京天大天科公司\项目相关\9、长武\1、源码\IndustryPlatform\Backup\Model\SYS_Colliery.cs">
+</Event><Event ErrorLevel="0" Project="Model" Source="Model\SYS_DictionaryEntity.cs" Description="文件已成功备份为 D:\YPF\北京天大天科公司\项目相关\9、长武\1、源码\IndustryPlatform\Backup\Model\SYS_DictionaryEntity.cs">
+</Event><Event ErrorLevel="0" Project="Model" Source="Model\SYS_FailerSendMessageEntity.cs" Description="文件已成功备份为 D:\YPF\北京天大天科公司\项目相关\9、长武\1、源码\IndustryPlatform\Backup\Model\SYS_FailerSendMessageEntity.cs">
+</Event><Event ErrorLevel="0" Project="Model" Source="Model\SYS_Filesave.cs" Description="文件已成功备份为 D:\YPF\北京天大天科公司\项目相关\9、长武\1、源码\IndustryPlatform\Backup\Model\SYS_Filesave.cs">
+</Event><Event ErrorLevel="0" Project="Model" Source="Model\SYS_LeavewordEntity.cs" Description="文件已成功备份为 D:\YPF\北京天大天科公司\项目相关\9、长武\1、源码\IndustryPlatform\Backup\Model\SYS_LeavewordEntity.cs">
+</Event><Event ErrorLevel="0" Project="Model" Source="Model\SYS_MenuEntity.cs" Description="文件已成功备份为 D:\YPF\北京天大天科公司\项目相关\9、长武\1、源码\IndustryPlatform\Backup\Model\SYS_MenuEntity.cs">
+</Event><Event ErrorLevel="0" Project="Model" Source="Model\SYS_OperateLogEntity.cs" Description="文件已成功备份为 D:\YPF\北京天大天科公司\项目相关\9、长武\1、源码\IndustryPlatform\Backup\Model\SYS_OperateLogEntity.cs">
+</Event><Event ErrorLevel="0" Project="Model" Source="Model\SYS_OperatorEntity.cs" Description="文件已成功备份为 D:\YPF\北京天大天科公司\项目相关\9、长武\1、源码\IndustryPlatform\Backup\Model\SYS_OperatorEntity.cs">
+</Event><Event ErrorLevel="0" Project="Model" Source="Model\SYS_Organization.cs" Description="文件已成功备份为 D:\YPF\北京天大天科公司\项目相关\9、长武\1、源码\IndustryPlatform\Backup\Model\SYS_Organization.cs">
+</Event><Event ErrorLevel="0" Project="Model" Source="Model\SYS_PositionEntity.cs" Description="文件已成功备份为 D:\YPF\北京天大天科公司\项目相关\9、长武\1、源码\IndustryPlatform\Backup\Model\SYS_PositionEntity.cs">
+</Event><Event ErrorLevel="0" Project="Model" Source="Model\SYS_ReadySendMessageEntity.cs" Description="文件已成功备份为 D:\YPF\北京天大天科公司\项目相关\9、长武\1、源码\IndustryPlatform\Backup\Model\SYS_ReadySendMessageEntity.cs">
+</Event><Event ErrorLevel="0" Project="Model" Source="Model\SYS_ReceiveMessageEntity.cs" Description="文件已成功备份为 D:\YPF\北京天大天科公司\项目相关\9、长武\1、源码\IndustryPlatform\Backup\Model\SYS_ReceiveMessageEntity.cs">
+</Event><Event ErrorLevel="0" Project="Model" Source="Model\SYS_SucceedSendMessageEntity.cs" Description="文件已成功备份为 D:\YPF\北京天大天科公司\项目相关\9、长武\1、源码\IndustryPlatform\Backup\Model\SYS_SucceedSendMessageEntity.cs">
+</Event><Event ErrorLevel="0" Project="Model" Source="Model\Model.csproj" Description="项目文件不需要转换。">
+</Event><Event ErrorLevel="3" Project="Model" Source="Model\Model.csproj" Description="无需转换">
+</Event><Event ErrorLevel="0" Project="BLL" Source="BLL\BLL.csproj" Description="项目文件已成功备份为 D:\YPF\北京天大天科公司\项目相关\9、长武\1、源码\IndustryPlatform\Backup\BLL\BLL.csproj">
+</Event><Event ErrorLevel="0" Project="BLL" Source="BLL\BLL.csproj.user" Description="项目用户文件成功备份为 D:\YPF\北京天大天科公司\项目相关\9、长武\1、源码\IndustryPlatform\Backup\BLL\BLL.csproj.user">
+</Event><Event ErrorLevel="0" Project="BLL" Source="BLL\Properties\AssemblyInfo.cs" Description="文件已成功备份为 D:\YPF\北京天大天科公司\项目相关\9、长武\1、源码\IndustryPlatform\Backup\BLL\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="BLL" Source="BLL\SYS_Colliery.cs" Description="文件已成功备份为 D:\YPF\北京天大天科公司\项目相关\9、长武\1、源码\IndustryPlatform\Backup\BLL\SYS_Colliery.cs">
+</Event><Event ErrorLevel="0" Project="BLL" Source="BLL\SYS_Dictionary.cs" Description="文件已成功备份为 D:\YPF\北京天大天科公司\项目相关\9、长武\1、源码\IndustryPlatform\Backup\BLL\SYS_Dictionary.cs">
+</Event><Event ErrorLevel="0" Project="BLL" Source="BLL\SYS_FailerSendMessageBLL.cs" Description="文件已成功备份为 D:\YPF\北京天大天科公司\项目相关\9、长武\1、源码\IndustryPlatform\Backup\BLL\SYS_FailerSendMessageBLL.cs">
+</Event><Event ErrorLevel="0" Project="BLL" Source="BLL\SYS_Leaveword.cs" Description="文件已成功备份为 D:\YPF\北京天大天科公司\项目相关\9、长武\1、源码\IndustryPlatform\Backup\BLL\SYS_Leaveword.cs">
+</Event><Event ErrorLevel="0" Project="BLL" Source="BLL\SYS_Menu.cs" Description="文件已成功备份为 D:\YPF\北京天大天科公司\项目相关\9、长武\1、源码\IndustryPlatform\Backup\BLL\SYS_Menu.cs">
+</Event><Event ErrorLevel="0" Project="BLL" Source="BLL\SYS_OperatorBll.cs" Description="文件已成功备份为 D:\YPF\北京天大天科公司\项目相关\9、长武\1、源码\IndustryPlatform\Backup\BLL\SYS_OperatorBll.cs">
+</Event><Event ErrorLevel="0" Project="BLL" Source="BLL\SYS_Organization.cs" Description="文件已成功备份为 D:\YPF\北京天大天科公司\项目相关\9、长武\1、源码\IndustryPlatform\Backup\BLL\SYS_Organization.cs">
+</Event><Event ErrorLevel="0" Project="BLL" Source="BLL\SYS_Position.cs" Description="文件已成功备份为 D:\YPF\北京天大天科公司\项目相关\9、长武\1、源码\IndustryPlatform\Backup\BLL\SYS_Position.cs">
+</Event><Event ErrorLevel="0" Project="BLL" Source="BLL\SYS_ReadySendMessageBLL.cs" Description="文件已成功备份为 D:\YPF\北京天大天科公司\项目相关\9、长武\1、源码\IndustryPlatform\Backup\BLL\SYS_ReadySendMessageBLL.cs">
+</Event><Event ErrorLevel="0" Project="BLL" Source="BLL\SYS_ReceiveMessageBLL.cs" Description="文件已成功备份为 D:\YPF\北京天大天科公司\项目相关\9、长武\1、源码\IndustryPlatform\Backup\BLL\SYS_ReceiveMessageBLL.cs">
+</Event><Event ErrorLevel="0" Project="BLL" Source="BLL\SYS_SucceedSendMessageBLL.cs" Description="文件已成功备份为 D:\YPF\北京天大天科公司\项目相关\9、长武\1、源码\IndustryPlatform\Backup\BLL\SYS_SucceedSendMessageBLL.cs">
+</Event><Event ErrorLevel="0" Project="BLL" Source="BLL\BLL.csproj" Description="项目文件不需要转换。">
+</Event><Event ErrorLevel="3" Project="BLL" Source="BLL\BLL.csproj" Description="无需转换">
+</Event><Event ErrorLevel="0" Project="IDAL" Source="IDAL\IDAL.csproj" Description="项目文件已成功备份为 D:\YPF\北京天大天科公司\项目相关\9、长武\1、源码\IndustryPlatform\Backup\IDAL\IDAL.csproj">
+</Event><Event ErrorLevel="0" Project="IDAL" Source="IDAL\IDAL.csproj.user" Description="项目用户文件成功备份为 D:\YPF\北京天大天科公司\项目相关\9、长武\1、源码\IndustryPlatform\Backup\IDAL\IDAL.csproj.user">
+</Event><Event ErrorLevel="0" Project="IDAL" Source="IDAL\ISys_Colliery.cs" Description="文件已成功备份为 D:\YPF\北京天大天科公司\项目相关\9、长武\1、源码\IndustryPlatform\Backup\IDAL\ISys_Colliery.cs">
+</Event><Event ErrorLevel="0" Project="IDAL" Source="IDAL\ISYS_Dictionary.cs" Description="文件已成功备份为 D:\YPF\北京天大天科公司\项目相关\9、长武\1、源码\IndustryPlatform\Backup\IDAL\ISYS_Dictionary.cs">
+</Event><Event ErrorLevel="0" Project="IDAL" Source="IDAL\ISYS_FailerSendMessage.cs" Description="文件已成功备份为 D:\YPF\北京天大天科公司\项目相关\9、长武\1、源码\IndustryPlatform\Backup\IDAL\ISYS_FailerSendMessage.cs">
+</Event><Event ErrorLevel="0" Project="IDAL" Source="IDAL\ISYS_Leaveword.cs" Description="文件已成功备份为 D:\YPF\北京天大天科公司\项目相关\9、长武\1、源码\IndustryPlatform\Backup\IDAL\ISYS_Leaveword.cs">
+</Event><Event ErrorLevel="0" Project="IDAL" Source="IDAL\ISYS_Menu.cs" Description="文件已成功备份为 D:\YPF\北京天大天科公司\项目相关\9、长武\1、源码\IndustryPlatform\Backup\IDAL\ISYS_Menu.cs">
+</Event><Event ErrorLevel="0" Project="IDAL" Source="IDAL\ISYS_Operator.cs" Description="文件已成功备份为 D:\YPF\北京天大天科公司\项目相关\9、长武\1、源码\IndustryPlatform\Backup\IDAL\ISYS_Operator.cs">
+</Event><Event ErrorLevel="0" Project="IDAL" Source="IDAL\ISYS_Organization.cs" Description="文件已成功备份为 D:\YPF\北京天大天科公司\项目相关\9、长武\1、源码\IndustryPlatform\Backup\IDAL\ISYS_Organization.cs">
+</Event><Event ErrorLevel="0" Project="IDAL" Source="IDAL\ISYS_Position.cs" Description="文件已成功备份为 D:\YPF\北京天大天科公司\项目相关\9、长武\1、源码\IndustryPlatform\Backup\IDAL\ISYS_Position.cs">
+</Event><Event ErrorLevel="0" Project="IDAL" Source="IDAL\ISYS_ReadySendMessage.cs" Description="文件已成功备份为 D:\YPF\北京天大天科公司\项目相关\9、长武\1、源码\IndustryPlatform\Backup\IDAL\ISYS_ReadySendMessage.cs">
+</Event><Event ErrorLevel="0" Project="IDAL" Source="IDAL\ISYS_ReceiveMessage.cs" Description="文件已成功备份为 D:\YPF\北京天大天科公司\项目相关\9、长武\1、源码\IndustryPlatform\Backup\IDAL\ISYS_ReceiveMessage.cs">
+</Event><Event ErrorLevel="0" Project="IDAL" Source="IDAL\ISYS_SucceedSendMessage.cs" Description="文件已成功备份为 D:\YPF\北京天大天科公司\项目相关\9、长武\1、源码\IndustryPlatform\Backup\IDAL\ISYS_SucceedSendMessage.cs">
+</Event><Event ErrorLevel="0" Project="IDAL" Source="IDAL\Properties\AssemblyInfo.cs" Description="文件已成功备份为 D:\YPF\北京天大天科公司\项目相关\9、长武\1、源码\IndustryPlatform\Backup\IDAL\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="IDAL" Source="IDAL\IDAL.csproj" Description="项目文件不需要转换。">
+</Event><Event ErrorLevel="3" Project="IDAL" Source="IDAL\IDAL.csproj" Description="无需转换">
+</Event><Event ErrorLevel="0" Project="SQLServerDAL" Source="SQLServerDAL\SQLServerDAL.csproj" Description="项目文件已成功备份为 D:\YPF\北京天大天科公司\项目相关\9、长武\1、源码\IndustryPlatform\Backup\SQLServerDAL\SQLServerDAL.csproj">
+</Event><Event ErrorLevel="0" Project="SQLServerDAL" Source="SQLServerDAL\SQLServerDAL.csproj.user" Description="项目用户文件成功备份为 D:\YPF\北京天大天科公司\项目相关\9、长武\1、源码\IndustryPlatform\Backup\SQLServerDAL\SQLServerDAL.csproj.user">
+</Event><Event ErrorLevel="0" Project="SQLServerDAL" Source="SQLServerDAL\Properties\AssemblyInfo.cs" Description="文件已成功备份为 D:\YPF\北京天大天科公司\项目相关\9、长武\1、源码\IndustryPlatform\Backup\SQLServerDAL\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="SQLServerDAL" Source="SQLServerDAL\SYS_Colliery.cs" Description="文件已成功备份为 D:\YPF\北京天大天科公司\项目相关\9、长武\1、源码\IndustryPlatform\Backup\SQLServerDAL\SYS_Colliery.cs">
+</Event><Event ErrorLevel="0" Project="SQLServerDAL" Source="SQLServerDAL\SYS_DictionaryDao.cs" Description="文件已成功备份为 D:\YPF\北京天大天科公司\项目相关\9、长武\1、源码\IndustryPlatform\Backup\SQLServerDAL\SYS_DictionaryDao.cs">
+</Event><Event ErrorLevel="0" Project="SQLServerDAL" Source="SQLServerDAL\SYS_FailerSendMessageSQLDAL.cs" Description="文件已成功备份为 D:\YPF\北京天大天科公司\项目相关\9、长武\1、源码\IndustryPlatform\Backup\SQLServerDAL\SYS_FailerSendMessageSQLDAL.cs">
+</Event><Event ErrorLevel="0" Project="SQLServerDAL" Source="SQLServerDAL\SYS_LeavewordDao.cs" Description="文件已成功备份为 D:\YPF\北京天大天科公司\项目相关\9、长武\1、源码\IndustryPlatform\Backup\SQLServerDAL\SYS_LeavewordDao.cs">
+</Event><Event ErrorLevel="0" Project="SQLServerDAL" Source="SQLServerDAL\SYS_Menu.cs" Description="文件已成功备份为 D:\YPF\北京天大天科公司\项目相关\9、长武\1、源码\IndustryPlatform\Backup\SQLServerDAL\SYS_Menu.cs">
+</Event><Event ErrorLevel="0" Project="SQLServerDAL" Source="SQLServerDAL\SYS_OperatorDao.cs" Description="文件已成功备份为 D:\YPF\北京天大天科公司\项目相关\9、长武\1、源码\IndustryPlatform\Backup\SQLServerDAL\SYS_OperatorDao.cs">
+</Event><Event ErrorLevel="0" Project="SQLServerDAL" Source="SQLServerDAL\SYS_Organization.cs" Description="文件已成功备份为 D:\YPF\北京天大天科公司\项目相关\9、长武\1、源码\IndustryPlatform\Backup\SQLServerDAL\SYS_Organization.cs">
+</Event><Event ErrorLevel="0" Project="SQLServerDAL" Source="SQLServerDAL\SYS_PositionDao.cs" Description="文件已成功备份为 D:\YPF\北京天大天科公司\项目相关\9、长武\1、源码\IndustryPlatform\Backup\SQLServerDAL\SYS_PositionDao.cs">
+</Event><Event ErrorLevel="0" Project="SQLServerDAL" Source="SQLServerDAL\SYS_ReadySendMessageSQLDAL.cs" Description="文件已成功备份为 D:\YPF\北京天大天科公司\项目相关\9、长武\1、源码\IndustryPlatform\Backup\SQLServerDAL\SYS_ReadySendMessageSQLDAL.cs">
+</Event><Event ErrorLevel="0" Project="SQLServerDAL" Source="SQLServerDAL\SYS_ReceiveMessageSQLDAL.cs" Description="文件已成功备份为 D:\YPF\北京天大天科公司\项目相关\9、长武\1、源码\IndustryPlatform\Backup\SQLServerDAL\SYS_ReceiveMessageSQLDAL.cs">
+</Event><Event ErrorLevel="0" Project="SQLServerDAL" Source="SQLServerDAL\SYS_SucceedSendMessageSQLDAL.cs" Description="文件已成功备份为 D:\YPF\北京天大天科公司\项目相关\9、长武\1、源码\IndustryPlatform\Backup\SQLServerDAL\SYS_SucceedSendMessageSQLDAL.cs">
+</Event><Event ErrorLevel="0" Project="SQLServerDAL" Source="SQLServerDAL\SQLServerDAL.csproj" Description="项目文件不需要转换。">
+</Event><Event ErrorLevel="3" Project="SQLServerDAL" Source="SQLServerDAL\SQLServerDAL.csproj" Description="无需转换">
+</Event><Event ErrorLevel="0" Project="DALFactory" Source="DALFactory\DALFactory.csproj" Description="项目文件已成功备份为 D:\YPF\北京天大天科公司\项目相关\9、长武\1、源码\IndustryPlatform\Backup\DALFactory\DALFactory.csproj">
+</Event><Event ErrorLevel="0" Project="DALFactory" Source="DALFactory\DALFactory.csproj.user" Description="项目用户文件成功备份为 D:\YPF\北京天大天科公司\项目相关\9、长武\1、源码\IndustryPlatform\Backup\DALFactory\DALFactory.csproj.user">
+</Event><Event ErrorLevel="0" Project="DALFactory" Source="DALFactory\DataCache.cs" Description="文件已成功备份为 D:\YPF\北京天大天科公司\项目相关\9、长武\1、源码\IndustryPlatform\Backup\DALFactory\DataCache.cs">
+</Event><Event ErrorLevel="0" Project="DALFactory" Source="DALFactory\FactoryManage.cs" Description="文件已成功备份为 D:\YPF\北京天大天科公司\项目相关\9、长武\1、源码\IndustryPlatform\Backup\DALFactory\FactoryManage.cs">
+</Event><Event ErrorLevel="0" Project="DALFactory" Source="DALFactory\Properties\AssemblyInfo.cs" Description="文件已成功备份为 D:\YPF\北京天大天科公司\项目相关\9、长武\1、源码\IndustryPlatform\Backup\DALFactory\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="DALFactory" Source="DALFactory\DALFactory.csproj" Description="项目文件不需要转换。">
+</Event><Event ErrorLevel="3" Project="DALFactory" Source="DALFactory\DALFactory.csproj" Description="无需转换">
+</Event><Event ErrorLevel="0" Project="DBUtility" Source="DBUtility\DBUtility.csproj" Description="项目文件已成功备份为 D:\YPF\北京天大天科公司\项目相关\9、长武\1、源码\IndustryPlatform\Backup\DBUtility\DBUtility.csproj">
+</Event><Event ErrorLevel="0" Project="DBUtility" Source="DBUtility\DBUtility.csproj.user" Description="项目用户文件成功备份为 D:\YPF\北京天大天科公司\项目相关\9、长武\1、源码\IndustryPlatform\Backup\DBUtility\DBUtility.csproj.user">
+</Event><Event ErrorLevel="0" Project="DBUtility" Source="DBUtility\BasePage.cs" Description="文件已成功备份为 D:\YPF\北京天大天科公司\项目相关\9、长武\1、源码\IndustryPlatform\Backup\DBUtility\BasePage.cs">
+</Event><Event ErrorLevel="0" Project="DBUtility" Source="DBUtility\CommandInfo.cs" Description="文件已成功备份为 D:\YPF\北京天大天科公司\项目相关\9、长武\1、源码\IndustryPlatform\Backup\DBUtility\CommandInfo.cs">
+</Event><Event ErrorLevel="0" Project="DBUtility" Source="DBUtility\CommonMethod.cs" Description="文件已成功备份为 D:\YPF\北京天大天科公司\项目相关\9、长武\1、源码\IndustryPlatform\Backup\DBUtility\CommonMethod.cs">
+</Event><Event ErrorLevel="0" Project="DBUtility" Source="DBUtility\ControlBindHelper.cs" Description="文件已成功备份为 D:\YPF\北京天大天科公司\项目相关\9、长武\1、源码\IndustryPlatform\Backup\DBUtility\ControlBindHelper.cs">
+</Event><Event ErrorLevel="0" Project="DBUtility" Source="DBUtility\CookieManager.cs" Description="文件已成功备份为 D:\YPF\北京天大天科公司\项目相关\9、长武\1、源码\IndustryPlatform\Backup\DBUtility\CookieManager.cs">
+</Event><Event ErrorLevel="0" Project="DBUtility" Source="DBUtility\DbHelperSQL.cs" Description="文件已成功备份为 D:\YPF\北京天大天科公司\项目相关\9、长武\1、源码\IndustryPlatform\Backup\DBUtility\DbHelperSQL.cs">
+</Event><Event ErrorLevel="0" Project="DBUtility" Source="DBUtility\MoneyChange.cs" Description="文件已成功备份为 D:\YPF\北京天大天科公司\项目相关\9、长武\1、源码\IndustryPlatform\Backup\DBUtility\MoneyChange.cs">
+</Event><Event ErrorLevel="0" Project="DBUtility" Source="DBUtility\MsmqManage.cs" Description="文件已成功备份为 D:\YPF\北京天大天科公司\项目相关\9、长武\1、源码\IndustryPlatform\Backup\DBUtility\MsmqManage.cs">
+</Event><Event ErrorLevel="0" Project="DBUtility" Source="DBUtility\PageValidate.cs" Description="文件已成功备份为 D:\YPF\北京天大天科公司\项目相关\9、长武\1、源码\IndustryPlatform\Backup\DBUtility\PageValidate.cs">
+</Event><Event ErrorLevel="0" Project="DBUtility" Source="DBUtility\Properties\AssemblyInfo.cs" Description="文件已成功备份为 D:\YPF\北京天大天科公司\项目相关\9、长武\1、源码\IndustryPlatform\Backup\DBUtility\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="DBUtility" Source="DBUtility\SystemConfig.cs" Description="文件已成功备份为 D:\YPF\北京天大天科公司\项目相关\9、长武\1、源码\IndustryPlatform\Backup\DBUtility\SystemConfig.cs">
+</Event><Event ErrorLevel="0" Project="DBUtility" Source="DBUtility\DBUtility.csproj" Description="项目文件不需要转换。">
+</Event><Event ErrorLevel="3" Project="DBUtility" Source="DBUtility\DBUtility.csproj" Description="无需转换">
+</Event><Event ErrorLevel="0" Project="" Source="IndustryPlatform.sln" Description="成功转换解决方案">
+</Event><Event ErrorLevel="3" Project="" Source="IndustryPlatform.sln" Description="Converted">
+</Event></UpgradeLog>
