@@ -32,3 +32,8 @@ D:\YPF\Repository\ChangWu\IndustryPlatform\Assembly\IndustryPlatform.DBUtility.p
 D:\YPF\Repository\ChangWu\IndustryPlatform\DBUtility\obj\Debug\DBUtility.csprojResolveAssemblyReference.cache
 D:\YPF\Repository\ChangWu\IndustryPlatform\DBUtility\obj\Debug\IndustryPlatform.DBUtility.dll
 D:\YPF\Repository\ChangWu\IndustryPlatform\DBUtility\obj\Debug\IndustryPlatform.DBUtility.pdb
+D:\YPF\TDTK\长武煤炭调运\7.源码\网站框架\ChangWu_IndustryPlatform\Assembly\IndustryPlatform.DBUtility.dll
+D:\YPF\TDTK\长武煤炭调运\7.源码\网站框架\ChangWu_IndustryPlatform\Assembly\IndustryPlatform.DBUtility.pdb
+D:\YPF\TDTK\长武煤炭调运\7.源码\网站框架\ChangWu_IndustryPlatform\DBUtility\obj\Debug\DBUtility.csprojResolveAssemblyReference.cache
+D:\YPF\TDTK\长武煤炭调运\7.源码\网站框架\ChangWu_IndustryPlatform\DBUtility\obj\Debug\IndustryPlatform.DBUtility.dll
+D:\YPF\TDTK\长武煤炭调运\7.源码\网站框架\ChangWu_IndustryPlatform\DBUtility\obj\Debug\IndustryPlatform.DBUtility.pdb

@@ -33,3 +33,8 @@ D:\YPF\Repository\ChangWu\IndustryPlatform\Assembly\IndustryPlatform.SQLServerDA
 D:\YPF\Repository\ChangWu\IndustryPlatform\SQLServerDAL\obj\Debug\SQLServerDAL.csprojResolveAssemblyReference.cache
 D:\YPF\Repository\ChangWu\IndustryPlatform\SQLServerDAL\obj\Debug\IndustryPlatform.SQLServerDAL.dll
 D:\YPF\Repository\ChangWu\IndustryPlatform\SQLServerDAL\obj\Debug\IndustryPlatform.SQLServerDAL.pdb
+D:\YPF\TDTK\长武煤炭调运\7.源码\网站框架\ChangWu_IndustryPlatform\Assembly\IndustryPlatform.SQLServerDAL.dll
+D:\YPF\TDTK\长武煤炭调运\7.源码\网站框架\ChangWu_IndustryPlatform\Assembly\IndustryPlatform.SQLServerDAL.pdb
+D:\YPF\TDTK\长武煤炭调运\7.源码\网站框架\ChangWu_IndustryPlatform\SQLServerDAL\obj\Debug\SQLServerDAL.csprojResolveAssemblyReference.cache
+D:\YPF\TDTK\长武煤炭调运\7.源码\网站框架\ChangWu_IndustryPlatform\SQLServerDAL\obj\Debug\IndustryPlatform.SQLServerDAL.dll
+D:\YPF\TDTK\长武煤炭调运\7.源码\网站框架\ChangWu_IndustryPlatform\SQLServerDAL\obj\Debug\IndustryPlatform.SQLServerDAL.pdb
